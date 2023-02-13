@@ -2,7 +2,7 @@
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
     url(/css/addons/unraid/login-page/alien/wallpaper/hallway4.jpg) center center/cover no-repeat fixed;
-    --logo: url(/css/addons/unraid/login-page/alien/logo/wings_green.png) center no-repeat;
+    --logo: url(https://cdn.weasyl.com/~hukley/submissions/1385840/c0bf4c7463304bab877202c9323eae59a2eac488a735b1720fb42ae2e18491c1/hukley-enigma-dragan.png) center no-repeat;
     --text-color: #37f592;
     --input-color: #37f592;
     --link-color: #37f592;
